@@ -1,0 +1,16 @@
+{
+  "name": "storybook-repro",
+  "dependencies": {
+    "@storybook/addon-essentials": "^8.0.4",
+    "@storybook/react": "^8.0.4",
+    "@storybook/react-vite": "^8.0.4",
+    "@vitejs/plugin-react": "^4.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "storybook": "^8.0.4",
+    "vite": "^5.2.2"
+  },
+  "scripts": {
+    "storybook": "storybook dev -p 6006"
+  }
+}
